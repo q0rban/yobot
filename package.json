@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "botkit": "^0.6.8",
+    "botkit-promise-storage": "^1.1.0",
+    "dotenv": "^4.0.0"
+  }
+}
